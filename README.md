@@ -25,16 +25,26 @@ ABOUT ME
 
 Languages and Tools
 
--Visual Studio Code,
+-Visual Studio Code
+
 -HTML5 
+
 -CSS3 
--JavaScript 
+
+-JavaScript
+
 -Android 
+
 -React 
+
 -Ruby 
--Rails 
--Bootstraps 
--postgreSQL 
+
+-Rails
+
+-Bootstraps
+
+-postgreSQL
+
 -postman
 
 
