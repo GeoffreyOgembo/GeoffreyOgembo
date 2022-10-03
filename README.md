@@ -10,8 +10,11 @@ FEEL FREE TO VIEW MY WORK
 
 ABOUT ME
 -👋Nationality: Kenyan/Tanzanian
+
 -👋Personal interests: soccer boxing_glove 💪🏽 camping motorcycle computer flight_departure
+
 -👋zap Fun fact: I Sing, Rap and Paint
+
 -👋Current location: round_pushpin Nairobi, Kenya
 
 
