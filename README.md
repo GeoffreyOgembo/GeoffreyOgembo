@@ -33,8 +33,6 @@ LANGUAGES AND TOOLS
 
 -JavaScript
 
--Android 
-
 -React 
 
 -Ruby 
