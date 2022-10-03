@@ -23,6 +23,10 @@ ABOUT ME
 
 -👋Current location: Kabete, Nairobi, Kenya
 
+Languages and Tools
+
+
+
 
 
 
