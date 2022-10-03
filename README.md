@@ -49,6 +49,7 @@ Linkedin Link:https://www.linkedin.com/in/geoffrey-ogembo-1102a3238
 
 Email Link: geoffreyogembo06@gmail.com
 
+Tweeter: @GeoffreyOgembo0
 
 
 
