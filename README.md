@@ -25,8 +25,17 @@ ABOUT ME
 
 Languages and Tools
 
-
-Visual Studio Code HTML5 CSS3 JavaScript Android React Ruby Rails Bootstraps postgreSQL postman
+-Visual Studio Code,
+-HTML5 
+-CSS3 
+-JavaScript 
+-Android 
+-React 
+-Ruby 
+-Rails 
+-Bootstraps 
+-postgreSQL 
+-postman
 
 
 
