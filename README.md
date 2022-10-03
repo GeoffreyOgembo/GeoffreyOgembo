@@ -9,6 +9,7 @@ FEEL FREE TO VIEW MY WORK
 - 📫 You can see some of my projects on my https://personal-portfolio-tawny-sigma.vercel.app/
 
 ABOUT ME
+
 -👋Nationality: Kenyan/Tanzanian
 
 -👋Personal interests: soccer boxing_glove 💪🏽 camping motorcycle computer flight_departure
