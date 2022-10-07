@@ -1,16 +1,17 @@
 
-Hi there  I'm Geoffrey Ogembo!
+
 
 FEEL FREE TO VIEW MY WORK
 
-I am a passionate frontend engineer. I believe that in character, in manner, in style, in all things, the supreme excellence is simplicity. I am passionate in Software development, design and emerging technologies.
 
-I love playing football, dirt bike racing, volleyball and solving puzzles.
+
+
 
 
 - 👋 Hi, I’m @GeoffreyOgembo
 
-- 👀  I'm a Full stack web developer
+- 👀 I am a passionate full-stuck engineer. I believe that in character, in manner, in style, in all things, the supreme excellence is simplicity. I am 
+   passionate in Software development, design and emerging technologies.
 
 - 🌱  I'm a Student In Moringa School
 
@@ -24,7 +25,7 @@ ABOUT ME
 
 -👋Nationality: Kenyan
 
--👋Personal interests: soccer volleyball 💪🏽 camping motorcycle computer flight_departure
+-👋Personal interests: soccer volleyball 💪🏽 camping motorcycle computer flight_departure, I love playing football, dirt bike racing, volleyball and         solving puzzles.
 
 -👋zap Fun fact: I Sing, dance
 
