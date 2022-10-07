@@ -1,4 +1,6 @@
 
+Hi there  I'm Geoffrey Ogembo!
+
 FEEL FREE TO VIEW MY WORK
 
 I am a passionate frontend engineer. I believe that in character, in manner, in style, in all things, the supreme excellence is simplicity. I am passionate in Software development, design and emerging technologies.
