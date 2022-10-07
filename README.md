@@ -1,6 +1,11 @@
 
 FEEL FREE TO VIEW MY WORK
 
+I am a passionate frontend engineer. I believe that in character, in manner, in style, in all things, the supreme excellence is simplicity. I am passionate in Software development, design and emerging technologies.
+
+I love playing football, dirt bike racing, volleyball and solving puzzles.
+
+
 - 👋 Hi, I’m @GeoffreyOgembo
 
 - 👀  I'm a Full stack web developer
