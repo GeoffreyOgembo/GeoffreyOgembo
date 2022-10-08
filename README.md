@@ -19,7 +19,7 @@ FEEL FREE TO VIEW MY WORK
 
 - 📫 I'm a Information Technoogy student
 
-- 📫 You can see some of my projects on my https://personal-portfolio-tawny-sigma.vercel.app/
+- 📫 You can see some of my projects on my http://myportfolio-smoky-omega.vercel.app/
 
 ABOUT ME
 
