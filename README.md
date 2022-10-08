@@ -17,7 +17,7 @@ FEEL FREE TO VIEW MY WORK
 
 - 💞️ art I'm a self-taught UI/UX designer
 
-- 📫 I'm a Information Technoogy student
+- 📫 I'm a Information Technology student
 
 - 📫 You can see some of my projects on my http://myportfolio-smoky-omega.vercel.app/
 
