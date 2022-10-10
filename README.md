@@ -19,7 +19,7 @@ FEEL FREE TO VIEW MY WORK
 
 - 📫 I'm a Information Technology student
 
-- 📫 You can see some of my projects on my http://myportfolio-smoky-omega.vercel.app/
+- 📫 You can see some of my projects on my https://myportfolio-444yv8eww-geoffreyogembo06-gmailcom.vercel.app/
 
 ABOUT ME
 
