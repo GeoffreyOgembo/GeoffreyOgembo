@@ -41,7 +41,8 @@ LANGUAGES AND TOOLS
 
 -💞️JavaScript
 
--💞️React 
+-💞️React ![image](https://user-images.githubusercontent.com/106180266/196389745-8be55885-db82-41cc-aedd-669a1dd7e4d6.png)
+
 
 -💞️Ruby 
 
